@@ -1,7 +1,6 @@
 {
   "name": "my-startup",
   "version": "1.0.0",
-  "homepage": "https://effinrinesh.github.io/my-startup/",
   "private": true,
   "scripts": {
     "dev": "next dev",
