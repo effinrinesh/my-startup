@@ -10,6 +10,7 @@ const nextConfig = {
       },
     ],
   },
+basePath: process.env.NODE_ENV === 'production' ? '/my-startup' : '', 
+assetPrefix: process.env.NODE_ENV === 'production' ? '/my-startup' : '',
 };
-
 module.exports = nextConfig;
