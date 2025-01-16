@@ -1,16 +1,15 @@
-{/*
+
 import SingleBlog from "@/components/Blog/SingleBlog";
-import blogData from "@/components/Blog/blogData";
+{/*import blogData from "@/components/Blog/blogData";*/}
 import Breadcrumb from "@/components/Common/Breadcrumb";
 
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog Page | Free Next.js Template for Startup and SaaS",
-  description: "This is Blog Page for Startup Nextjs Template",
+  title: "Blog Page",
+  description: "This is Blog Page for My Startup",
   // other metadata
 };
-
 const Blog = () => {
   return (
     <>
@@ -21,6 +20,7 @@ const Blog = () => {
 
       <section className="pb-[120px] pt-[120px]">
         <div className="container">
+         {/*
           <div className="-mx-4 flex flex-wrap justify-center">
             {blogData.map((blog) => (
               <div
@@ -31,6 +31,7 @@ const Blog = () => {
               </div>
             ))}
           </div>
+          */}
 
           <div className="-mx-4 flex flex-wrap" data-wow-delay=".15s">
             <div className="w-full px-4">
@@ -98,4 +99,3 @@ const Blog = () => {
 };
 
 export default Blog;
-*/}

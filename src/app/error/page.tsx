@@ -145,7 +145,7 @@ const ErrorPage = () => {
                     Oops! It seems this page is still part of my mental workspace
                 </h3>
                 <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  I might still be building this page, since at this moment I'm the sole employee, making/changingstuff takes time. Pls bear with us :).
+                  I might still be building this page, since at this moment I am the sole employee, making/changingstuff takes time. Pls bear with us :).
                 </p>
                 <Link
                   href="/"

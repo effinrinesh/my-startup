@@ -31,10 +31,10 @@ const AboutSectionTwo = () => {
                   Our Vision
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                "River Sentinel AI envisions a world where adaptive intelligence secures our
+                River Sentinel AI envisions a world where adaptive intelligence secures our
                  digital frontiers. We strive to be the foremost Centre of Excellence in SOC 
                  operations, blending machine learning with human expertise to forge innovative, 
-                 resilient security solutions that serve and protect organizations and communities alike."
+                 resilient security solutions that serve and protect organizations and communities alike.
                 </p>
               </div>
               <div className="mb-9">
@@ -42,10 +42,10 @@ const AboutSectionTwo = () => {
                   Our Mission
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                "To revolutionize digital security through real-time threat detection and comprehensive 
+                To revolutionize digital security through real-time threat detection and comprehensive 
                 incident response, leveraging cutting-edge machine learning technologies. We are committed 
                 to fostering a culture of continuous improvement, collaboration, and excellence to safeguard 
-                data and ensure the integrity of digital infrastructures."
+                data and ensure the integrity of digital infrastructures.
                 </p>
               </div>
               <div className="mb-1">
@@ -53,9 +53,9 @@ const AboutSectionTwo = () => {
                   Our Values
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                "Integrity, innovation, and community are the cornerstones of River Sentinel AI. We believe in transparent 
+                Integrity, innovation, and community are the cornerstones of River Sentinel AI. We believe in transparent 
                 operations, relentless pursuit of technological advancement, and giving back to the community. Our core values 
-                guide us in delivering top-tier security solutions while building trust and empowering those we serve."
+                guide us in delivering top-tier security solutions while building trust and empowering those we serve.
                 </p>
               </div>
             </div>
